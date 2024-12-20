@@ -6,7 +6,7 @@ I'm an undergraduate student at Universitas Negeri Surabaya majoring in Informat
 ### 🛠️ Tech Stack
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,postgresql,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,git,python,react,nodejs,express,postgresql&theme=dark" />
   </a>
 </p>
 
